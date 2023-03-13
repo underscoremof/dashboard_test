@@ -1,0 +1,7 @@
+name: my_env
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - ipywidgets=7.6.3
+  - jupyterlab=3.1.12
