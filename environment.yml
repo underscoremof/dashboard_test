@@ -3,5 +3,5 @@ channels:
   - defaults
 dependencies:
   - python=3.7
-  - ipywidgets=7.6.3
+  - ipywidgets=8.0.4
   - jupyterlab=3.1.12
